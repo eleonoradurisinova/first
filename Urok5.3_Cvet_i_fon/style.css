@@ -1,0 +1,43 @@
+
+.box {
+    background-image: url('image/image1.jpg');
+    background-position: top;
+    background-size: cover;
+}
+
+.recipe {
+    background-image: url('image/image2.png');
+    background-size: 180px;
+    background-repeat: no-repeat;
+    background-position: right 10% bottom 88%;
+}
+.filling {
+    background-color:lightcyan;
+    background-image: url('image/image3.png');
+    background-size: 55px;
+    background-repeat: repeat-y;
+    background-position: right 10% bottom 65%;
+}
+h1 {
+    background-color: #97cc09;
+    color: white;
+    font-size: 25px;
+}
+
+h2 {
+    background-color: #97cc09;
+    color: white;
+    font-size: 22px;
+}
+
+h3 {
+    background-color: #97cc09;
+    color: white;
+    font-size: 20px;
+}
+
+p {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
